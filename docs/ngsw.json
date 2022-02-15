@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644932935261,
+  "timestamp": 1644935423832,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -350,7 +350,7 @@
     "/assets/imgs/web/pkr/main.jpg": "a52b570b94aebcf9f16ba72aa0ebfb7a2b16c3fc",
     "/assets/imgs/web/pkr/main_app.jpg": "946a040c856c92fddc95d4e088074ec3b59801cd",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "76cb7b1685e092e82f950806cdd9c9fb1def04d9",
+    "/index.html": "a692e459a0e514acd872a5c23f3e6754fdf1ed08",
     "/main.37aa005ecb460ec1.js": "a3153ae51d242464b6e7cd43fd1523cad39239b1",
     "/manifest.webmanifest": "506cac09af3ca70063f225a22b3f1a277688f481",
     "/polyfills.a59d9ac942ec38f9.js": "17ab1968302cc43cce03f8bf555960869fd46136",
