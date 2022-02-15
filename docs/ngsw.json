@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644935423832,
+  "timestamp": 1644936066045,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.37aa005ecb460ec1.js",
+        "/main.0acc6307cf08f718.js",
         "/manifest.webmanifest",
         "/polyfills.a59d9ac942ec38f9.js",
         "/runtime.87bd7856e6790956.js",
@@ -350,8 +350,8 @@
     "/assets/imgs/web/pkr/main.jpg": "a52b570b94aebcf9f16ba72aa0ebfb7a2b16c3fc",
     "/assets/imgs/web/pkr/main_app.jpg": "946a040c856c92fddc95d4e088074ec3b59801cd",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "a692e459a0e514acd872a5c23f3e6754fdf1ed08",
-    "/main.37aa005ecb460ec1.js": "a3153ae51d242464b6e7cd43fd1523cad39239b1",
+    "/index.html": "ee3d66ed3585208a2c2e0a1bea3f3ea7deb9b858",
+    "/main.0acc6307cf08f718.js": "c559539819af9f2e4d8094098cd7c2ad2239e94d",
     "/manifest.webmanifest": "506cac09af3ca70063f225a22b3f1a277688f481",
     "/polyfills.a59d9ac942ec38f9.js": "17ab1968302cc43cce03f8bf555960869fd46136",
     "/runtime.87bd7856e6790956.js": "38afa1e210af8eb24ddeacc27efd5be28114e31c",
