@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclaire_site=self.webpackChunkclaire_site||[]).push([[360],{360:(n,e,s)=>{s.r(e),s.d(e,{default:()=>u});const u={ABOUT:{TITLE:"About me"}}}}]);
