@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclaire_site=self.webpackChunkclaire_site||[]).push([[963],{963:(u,e,s)=>{s.r(e),s.d(e,{default:()=>c});const c={ABOUT:{TITLE:"Uber mich"}}}}]);
